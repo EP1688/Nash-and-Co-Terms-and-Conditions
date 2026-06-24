@@ -1,7 +1,7 @@
 .video-container {
   position: relative;
   width: 100%;
-  max-width: 800px;
+  max-width: 400px;
   margin: 0;
   padding-bottom: 56.25%; /* Creates a perfect 16:9 aspect ratio */
   height: 0;
